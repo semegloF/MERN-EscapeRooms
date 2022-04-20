@@ -1,0 +1,13 @@
+.register-page {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	width: 180px;
+}
+
+h1 {
+	margin-top: 0px;
+}
+
